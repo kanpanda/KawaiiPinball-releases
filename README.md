@@ -38,12 +38,12 @@ Google Play 以外から配布しているため、はじめに「提供元不�
 
 ```powershell
 # Windows（PowerShell）
-Get-FileHash .\KawaiiPinball-1.1.0.apk -Algorithm SHA256
+Get-FileHash .\KawaiiPinball-1.1.1.apk -Algorithm SHA256
 ```
 
 ```sh
 # macOS / Linux
-shasum -a 256 KawaiiPinball-1.1.0.apk
+shasum -a 256 KawaiiPinball-1.1.1.apk
 ```
 
 APK の署名証明書（SHA-256）は次のとおりです。すべてのバージョンで同じです。
