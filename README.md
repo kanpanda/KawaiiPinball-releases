@@ -5,6 +5,14 @@
 
 このリポジトリは Android 版アプリ（APK）の配布専用です。
 
+<p align="center">
+  <img src="images/gameplay.gif" width="300" alt="プレイ中の様子：発射したボールがスピナーを回し、バンパーで弾かれて得点が入る">
+</p>
+
+| タイトル | ステージ選択 | ステージ 1 | ステージ 2 | クリア |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="images/title.png" width="160" alt="タイトル画面"> | <img src="images/stage-select.png" width="160" alt="ステージ選択画面"> | <img src="images/stage1.png" width="160" alt="ステージ1 Neon Candy のプレイ中"> | <img src="images/stage2.png" width="160" alt="ステージ2 Mint Soda のプレイ中"> | <img src="images/stage-clear.png" width="160" alt="STAGE CLEAR の結果画面"> |
+
 ## ダウンロード
 
 **[最新版をダウンロード（Releases）](https://github.com/kanpanda/KawaiiPinball-releases/releases/latest)**
