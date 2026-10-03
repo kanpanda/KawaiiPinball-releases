@@ -9,9 +9,30 @@
   <img src="images/gameplay.gif" width="300" alt="プレイ中の様子：発射したボールがスピナーを回し、バンパーで弾かれて得点が入る">
 </p>
 
-| タイトル | ステージ選択 | ステージ 1 | ステージ 2 | クリア |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="images/title.png" width="160" alt="タイトル画面"> | <img src="images/stage-select.png" width="160" alt="ステージ選択画面"> | <img src="images/stage1.png" width="160" alt="ステージ1 Neon Candy のプレイ中"> | <img src="images/stage2.png" width="160" alt="ステージ2 Mint Soda のプレイ中"> | <img src="images/stage-clear.png" width="160" alt="STAGE CLEAR の結果画面"> |
+<p align="center">
+  タイトル<br>
+  <img src="images/title.png" width="300" alt="タイトル画面">
+</p>
+
+<p align="center">
+  ステージ選択<br>
+  <img src="images/stage-select.png" width="300" alt="ステージ選択画面">
+</p>
+
+<p align="center">
+  ステージ 1（Neon Candy）<br>
+  <img src="images/stage1.png" width="300" alt="ステージ1 Neon Candy のプレイ中">
+</p>
+
+<p align="center">
+  ステージ 2（Mint Soda）<br>
+  <img src="images/stage2.png" width="300" alt="ステージ2 Mint Soda のプレイ中">
+</p>
+
+<p align="center">
+  クリア<br>
+  <img src="images/stage-clear.png" width="300" alt="STAGE CLEAR の結果画面">
+</p>
 
 ## ダウンロード
 
